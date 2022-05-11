@@ -1,7 +1,7 @@
-- 👋 Ola, me chamo Bruno Rivolta
-- 👀 No momento sou Projetista de Desenhista Mecânico.
-- 🌱 Estou estudando programação e meu objetivo é mudar de àrea e em breve iniciar uma nova carreira.
-- 💞️ No momento estudando na Alura e me aprofundando em programação. 
+##Ola, me chamo Bruno Rivolta
+- 👀 No momento sou Projetista de Desenhista Mecânico e estudante de Programação.
+- 🌱 Estou estudando programação na Alura e me aprofundando em programação
+- Meu objetivo é mudar de àrea e em breve iniciar uma nova carreira com programador. 
 - 📫 Meu objetivo aqui e compartilhar um pouco do que estou aprendendo e fazer parte da comunidade.
 
 <div align="center">
