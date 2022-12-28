@@ -44,10 +44,5 @@ Entre outros ...
 <a href="https://www.youtube.com/channel/UC6XJ3aQvFBU7gqHvebolwJQ"><img src="https://img.icons8.com/plasticine/100/null/youtube-play--v1.png" class="links"></a>
 <a href="https://devrivolta.blogspot.com/"><img src="https://images2.imgbox.com/1d/91/8Te7jWaR_o.png" class="links"></a>
 
-<style>
-    .links:hover {
-        width: 95px;
-    }
-</style>
 
 ***
