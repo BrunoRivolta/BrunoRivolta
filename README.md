@@ -22,16 +22,6 @@ Sou estudante da Alura e também participando de alguns bootcamps. Meu objetivo 
 ![Docker](https://img.shields.io/badge/docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=%20390fc) 
 ![AWS](https://img.shields.io/badge/aws-%23323330.svg?style=for-the-badge&logo=AmazonAWS&logoColor=orange) 
 
-
-Tenho projetos de API Rest feitas em Node.Js com programação orientada a objeto, ja fiz modelagem de banco de dados relacional e não relacional.
-
-Metodologia agil scrum / trello
-
-Tenho projetos em HTML, CSS, Bootstrap e Jquery.
-
-Estudando React e TypeScrit
-
-
 ***
 
 <div> <!-- Painel-->
