@@ -2,8 +2,7 @@
 
 ## Sobre mim
 
-Me chamo Bruno Rivolta, atualmente Projetista Mecânico em transição de carreira para àrea de tecnologia.  
-Sou estudante da Alura e também participando de alguns bootcamps. Meu objetivo é me tornar um Desenvolvedor FullStack. 
+Me chamo Bruno Rivolta, desenvolverdor Front End minha especialidade é react mais estou ligado a várias tecnologias ebusco conhecimento continuo.
 
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=orange) 
 ![CSS3](https://img.shields.io/badge/CSS3-%23323330.svg?style=for-the-badge&logo=CSS3&logoColor=%230390fc)
