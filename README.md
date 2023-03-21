@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Me chamo Bruno Rivolta, desenvolverdor Front End minha especialidade é react mais estou ligado a várias tecnologias ebusco conhecimento continuo.
+Me chamo Bruno Rivolta, desenvolverdor Front End minha especialidade é React mais estou ligado a várias tecnologias  e busco conhecimento e crescimento continuo.
 
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=orange) 
 ![CSS3](https://img.shields.io/badge/CSS3-%23323330.svg?style=for-the-badge&logo=CSS3&logoColor=%230390fc)
