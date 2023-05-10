@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Me chamo Bruno Rivolta, desenvolverdor Front End minha especialidade é React mais estou ligado a várias tecnologias  e busco conhecimento e crescimento continuo.
+Me chamo Bruno Rivolta, desenvolverdor FullStack Web trabalhando atualmente na NRB Consulting com projetos em Angular, e APIs em Node.JS.
 
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=orange) 
 ![CSS3](https://img.shields.io/badge/CSS3-%23323330.svg?style=for-the-badge&logo=CSS3&logoColor=%230390fc)
@@ -12,10 +12,12 @@ Me chamo Bruno Rivolta, desenvolverdor Front End minha especialidade é React ma
 ![jQuery](https://img.shields.io/badge/Jquery-%23323330.svg?style=for-the-badge&logo=jQuery&logoColor=%2361DAFB) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%23fc0398) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%230390fc) 
+![Angular](https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031) 
 
 
 ![Mysql](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=%2303dbfc) 
 ![MongoDB](https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248) 
+![Sql_Server](https://img.shields.io/badge/microsoftsqlserver-%23323330.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=%23CC2927) 
 ![Redis](https://img.shields.io/badge/redis-%23323330.svg?style=for-the-badge&logo=Redis&logoColor=red) 
 
 ![Docker](https://img.shields.io/badge/docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=%20390fc) 
