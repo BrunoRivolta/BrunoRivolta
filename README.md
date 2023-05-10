@@ -17,7 +17,7 @@ Me chamo Bruno Rivolta, desenvolverdor FullStack Web trabalhando atualmente na N
 
 ![Mysql](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=%2303dbfc) 
 ![MongoDB](https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248) 
-![Sql_Server](https://img.shields.io/badge/microsoftsqlserver-%23323330.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=%23CC2927) 
+![Sql_Server](https://img.shields.io/badge/sqlserver-%23323330.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=%23CC2927) 
 ![Redis](https://img.shields.io/badge/redis-%23323330.svg?style=for-the-badge&logo=Redis&logoColor=red) 
 
 ![Docker](https://img.shields.io/badge/docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=%20390fc) 
