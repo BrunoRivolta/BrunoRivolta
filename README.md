@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Me chamo Bruno Rivolta, desenvolverdor FullStack Web trabalhando atualmente na NRB Consulting com projetos em Angular, e APIs em Node.JS.
+Me chamo Bruno Rivolta, desenvolverdor FullStack Web trabalhando atualmente na NRB Consulting com projetos em React, Angular, React Native, e APIs em Node.JS.
 
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=orange) 
 ![CSS3](https://img.shields.io/badge/CSS3-%23323330.svg?style=for-the-badge&logo=CSS3&logoColor=%230390fc)
